@@ -99,7 +99,7 @@ OSI 七层模型是国际标准化组织（International Organization for Standa
 1.  DNS 解析：将域名解析成对应的 IP 地址。
 2.  TCP 连接：与服务器通过三次握手，建立 TCP 连接
 3.  向服务器发送 HTTP 请求
-4.  服务器处理请求，返回 HTTp 响应
+4.  服务器处理请求，返回 HTTP 响应
 5.  浏览器解析并渲染页面
 6.  断开连接：TCP 四次挥手，连接结束
 
